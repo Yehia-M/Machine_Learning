@@ -1,4 +1,5 @@
 # Machine_Learning
 
-This is a simple recommender system using collaborative filtering learning algorithm.
+Projects for Machine Learning Course from Stanford University
+1: Simple recommender system using collaborative filtering learning algorithm.
 Data set is from MovieLens
